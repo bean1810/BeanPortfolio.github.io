@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="965c1918-4650-469f-9503-c7207d12db1a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo/logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/WebModulesManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/portscanner/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/portscanner/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/portscanner/lib/portscanner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/portscanner/lib/promisify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/portscanner/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/posix-character-classes/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/posix-character-classes/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/posix-character-classes/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/posix-character-classes/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/.verb.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.jshintignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/license.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/.eslintignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/test/parse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qs/test/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/randomatic/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/range-parser/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/range-parser/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/range-parser/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/range-parser/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/range-parser/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raw-body/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg-up/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg-up/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg-up/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg-up/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/read-pkg/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/duplex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/float.patch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/passthrough.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/transform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/writable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/callback-api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/grep.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/stream-api-pipe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/examples/stream-api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/fs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/graceful-fs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/legacy-streams.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/graceful-fs/polyfills.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/isarray/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/minimatch/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/minimatch/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/minimatch/minimatch.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/minimatch/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/GOVERNANCE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/duplex-browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/duplex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/internal/streams/BufferList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/internal/streams/destroy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/internal/streams/stream-browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/lib/internal/streams/stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/passthrough.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/readable-browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/readable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/transform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/writable-browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/readable-stream/writable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/string_decoder/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/string_decoder/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/string_decoder/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/string_decoder/lib/string_decoder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/node_modules/string_decoder/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/readdirp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/stream-api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir1/root_dir1_file1.ext1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir1/root_dir1_file2.ext2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir1/root_dir1_file3.ext3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir2/root_dir2_file1.ext1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir2/root_dir2_file2.ext2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_file1.ext1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_file2.ext2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_file3.ext3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/readdirp-stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/readdirp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/CHANGELOG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rechoir/lib/extension.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/regex-cache/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/regex-not/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/production/js/main.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/views/gallery/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <marker date="1525946267071" expanded="true" signature="126:412" ph="{&quot;bootstrap_css&quot;: &quot;node_modules/bootstrap/dist/css/bootstrap.min.css&quot;...}" />
+                <marker date="1525946267071" expanded="true" signature="434:490" ph="{&quot;css&quot;: &quot;production/css/&quot;...}" />
+                <marker date="1525946267071" expanded="true" signature="522:679" ph="{...}" />
+                <marker date="1525946267071" expanded="true" signature="711:884" ph="{...}" />
+                <marker date="1525946267071" expanded="true" signature="888:1021" ph="//..." />
+                <marker date="1525946267071" expanded="true" signature="1054:1147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BeanPortfolio.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeanPortfolio.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="BeanPortfolio.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeanPortfolio.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="965c1918-4650-469f-9503-c7207d12db1a" name="Default" comment="" />
+      <created>1525948010705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525948010705</updated>
+      <workItem from="1525948012501" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18791947" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17170954" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24496645" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17252396" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09899329" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <marker date="1525946267071" expanded="true" signature="126:412" ph="{&quot;bootstrap_css&quot;: &quot;node_modules/bootstrap/dist/css/bootstrap.min.css&quot;...}" />
+            <marker date="1525946267071" expanded="true" signature="434:490" ph="{&quot;css&quot;: &quot;production/css/&quot;...}" />
+            <marker date="1525946267071" expanded="true" signature="522:679" ph="{...}" />
+            <marker date="1525946267071" expanded="true" signature="711:884" ph="{...}" />
+            <marker date="1525946267071" expanded="true" signature="888:1021" ph="//..." />
+            <marker date="1525946267071" expanded="true" signature="1054:1147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
