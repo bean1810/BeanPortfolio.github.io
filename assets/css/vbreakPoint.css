@@ -1,0 +1,245 @@
+/*---------------For Phone Only----------------*/
+@media only screen and (max-width: 599px) {
+  #header {
+    font-size: 11px;
+    height: 100vh/2; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 11px; }
+    #Pound-it .bio p {
+      font-size: 1.2em; }
+
+  #skill {
+    font-size: 11px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+@media only screen and (max-width: 599px) and (-webkit-min-device-pixel-ratio: 2) {
+  #header {
+    font-size: 11px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 11px; }
+    #Pound-it p {
+      font-size: 1.2em; }
+
+  #skill {
+    font-size: 11px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+@media only screen and (max-width: 599px) and (-webkit-min-device-pixel-ratio: 3) {
+  #header {
+    font-size: 12px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 11px; }
+    #Pound-it p {
+      font-size: 1.2em; }
+
+  #skill {
+    font-size: 11px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+/*--------------For Tablet Portrait Up------------------------*/
+@media only screen and (min-width: 600px) {
+  #header {
+    font-size: 14.5px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 14.5px; }
+
+  #skill {
+    font-size: 14.5px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+@media only screen and (min-width: 600px) and (-webkit-min-device-pixel-ratio: 2) {
+  #header {
+    font-size: 14.5px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 14.5px; }
+
+  #skill {
+    font-size: 14.5px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+@media only screen and (min-width: 600px) and (-webkit-min-device-pixel-ratio: 3) {
+  #header {
+    font-size: 14.5px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 5px; }
+    #header .My-Social {
+      padding-left: 15px; }
+      #header .My-Social a i {
+        font-size: 1.5em; }
+
+  #Pound-it {
+    font-size: 14.5px; }
+
+  #skill {
+    font-size: 14.5px; }
+    #skill p {
+      font-size: 1.2em; }
+    #skill .skill-list {
+      padding: 0 5%; }
+      #skill .skill-list .skill-list-style i {
+        font-size: 4em; } }
+/*----------------For Tablet Landscape Up----------------*/
+@media only screen and (min-width: 900px) {
+  #header {
+    font-size: 19.5px; }
+
+  #Pound-it {
+    font-size: 19.5px; }
+
+  #skill {
+    padding: 0 10%;
+    font-size: 19.5px; } }
+@media only screen and (min-width: 900px) and (-webkit-min-device-pixel-ratio: 2) {
+  #header {
+    font-size: 19.5px; }
+
+  #Pound-it {
+    font-size: 19.5px; }
+
+  #skill {
+    padding: 0 10%;
+    font-size: 19.5px; } }
+@media only screen and (min-width: 900px) and (-webkit-min-device-pixel-ratio: 3) {
+  #header {
+    font-size: 19.5px; }
+
+  #Pound-it {
+    font-size: 19.5px; }
+
+  #skill {
+    padding: 0 10%;
+    font-size: 19.5px; } }
+/*----------------For Desktop Up----------------*/
+@media only screen and (min-width: 1200px) {
+  #header {
+    font-size: 28px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 28px; }
+
+  #skill {
+    font-size: 28px; }
+    #skill i {
+      font-size: 3em !important; } }
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+  #header {
+    font-size: 28px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 28px; }
+
+  #skill {
+    font-size: 28px; }
+    #skill i {
+      font-size: 3em !important; } }
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 3) {
+  #header {
+    font-size: 28px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 28px; }
+
+  #skill {
+    font-size: 28px; }
+    #skill i {
+      font-size: 3em !important; } }
+/*----------------For Big Desktop Up----------------*/
+@media only screen and (min-width: 1800px) {
+  #header {
+    font-size: 33px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 33px; } }
+@media only screen and (min-width: 1800px) and (-webkit-min-device-pixel-ratio: 2) {
+  #header {
+    font-size: 33px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 33px; } }
+@media only screen and (min-width: 1800px) and (-webkit-min-device-pixel-ratio: 3) {
+  #header {
+    font-size: 33px; }
+    #header .My-Personality p {
+      font-size: 1em;
+      letter-spacing: 10px; }
+
+  #Pound-it {
+    font-size: 33px; } }
+
+/*# sourceMappingURL=vbreakPoint.css.map */
