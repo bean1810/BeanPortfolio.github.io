@@ -59,8 +59,7 @@ body, html {
     width: 51%;
     height: 100%;
     background-color: #222;
-    z-index: 1000;
-    overflow: hidden; }
+    z-index: 1000; }
     #wrapper-loader .loader-section.section-left {
       left: 0; }
     #wrapper-loader .loader-section.section-right {

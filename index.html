@@ -9,6 +9,11 @@
     <link rel="stylesheet" href="/assets/css/font-awsome/fonts-awsome-all.css">
     <link rel="stylesheet" href="/production/css/style.min.css">
     <link rel="shortcut icon" href="/assets/images/logo/shortcutIcon.png">
+
+    <meta property="og:title" content="My Portfolio Site">
+    <meta property="og:image" content="https://bean1810.github.io/assets/images/logo/shortcutIcon.png">
+    <meta property="og:url" content="https://bean1810.github.io/">
+    <meta property="og:description" content="My Portfolio Site">
 </head>
 <body>
 <div id="wrapper-loader">
@@ -74,7 +79,9 @@
 </div>
 
 <script type="text/javascript">
+
     $(document).ready(function () {
+        $(this).scrollTop(0);
         let time = parseInt((window.performance.timing.domContentLoadedEventEnd/100)%60)*100;
         console.log((time));
         setTimeout(function(){
