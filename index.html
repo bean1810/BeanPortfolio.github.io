@@ -4,66 +4,84 @@
     <meta charset="UTF-8">
     <title>Home Page</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|Source+Code+Pro:300,200,900"
-          type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|Source+Code+Pro:300,200,900" type="text/css">
     <script type="text/javascript" src="/production/js/main.min.js"></script>
     <link rel="stylesheet" href="/assets/css/font-awsome/fonts-awsome-all.css">
     <link rel="stylesheet" href="/production/css/style.min.css">
+    <link rel="shortcut icon" href="/assets/images/logo/shortcutIcon.png">
 </head>
 <body>
-<section id="header">
-    <div class="My-Name">
-        <h1 title="Trần Việt Dũng">Tran Viet Dung</h1>
-    </div>
-    <div class="My-Personality">
-        <p>SOCIABLE / POLITE / WITTY</p>
-    </div>
-    <div class="My-Social">
-        <div id="Github">
-            <a target="_blank" href="https://github.com/bean1810"><i class="fab fa-github-alt"></i></a>
+<div id="wrapper-loader">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
+<div class="content">
+    <section id="header">
+        <div class="My-Name">
+            <h1 title="Trần Việt Dũng">Tran Viet Dung</h1>
         </div>
-        <div class="FaceBook">
-            <a href="https://www.facebook.com/vietdung.tran.161" target="_blank"><i class="fab fa-facebook"></i></a>
+        <div class="My-Personality">
+            <p>SOCIABLE / POLITE / WITTY</p>
         </div>
-        <div class="Twitter">
-            <a href="https://twitter.com/Traviedun" target="_blank"><i class="fab fa-twitter"></i></a>
+        <div class="My-Social">
+            <div id="Github">
+                <a target="_blank" href="https://github.com/bean1810"><i class="fab fa-github-alt"></i></a>
+            </div>
+            <div class="FaceBook">
+                <a href="https://www.facebook.com/vietdung.tran.161" target="_blank"><i class="fab fa-facebook"></i></a>
+            </div>
+            <div class="Twitter">
+                <a href="https://twitter.com/Traviedun" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
+            <div class="Codepen">
+                <a href="https://codepen.io/TranVietDung/" target="_blank"><i class="fab fa-codepen"></i></a>
+            </div>
         </div>
-        <div class="Codepen">
-            <a href="https://codepen.io/TranVietDung/" target="_blank"><i class="fab fa-codepen"></i></a>
+    </section>
+    <section id="Pound-it">
+        <div class="title">
+            <h2>Pound it
+                <i class="far fa-hand-rock"></i>
+            </h2>
         </div>
-    </div>
-</section>
-<section id="Pound-it">
-    <div class="title">
-        <h2>Pound it
-            <i class="far fa-hand-rock"></i>
-        </h2>
-    </div>
-    <div class="bio">
-        <p>
-            Hello! My name is Tran Viet Dung, you can call me Steve (if you like) and I love learning. I love learning
-            so much I taught myself how
-            to code. During my studies and work, I'm still learning how to create a <span>nice website interface</span> and have a
-            <span>good user experience</span>.
-        </p>
-    </div>
-</section>
-<section id="skill">
-    <div class="title">
-        <h2>Browse My Skill</h2>
-        <p>( Something more but I still can't find fonts icon yet :D )</p>
-    </div>
-    <div class="skill-list">
-        <div class="HTML5 skill-list-style"><i class="fab fa-html5"></i></div>
-        <div class="CSS3 skill-list-style"><i class="fab fa-css3-alt"></i></div>
-        <div class="JS skill-list-style"><i class="fab fa-js"></i></div>
-        <div class="Sass skill-list-style"><i class="fab fa-sass"></i></div>
-        <div class="React skill-list-style"><i class="fab fa-react"></i></div>
-        <div class="Grunt skill-list-style"><i class="fab fa-grunt"></i></div>
-        <div class="Gulp skill-list-style"><i class="fab fa-gulp"></i></div>
-        <div class="Git skill-list-style"><i class="fab fa-github"></i></div>
-        <div class="Npm skill-list-style"><i class="fab fa-npm"></i></div>
-    </div>
-</section>
+        <div class="bio">
+            <p>
+                Hello! My name is Tran Viet Dung, you can call me Steve (if you like) and I love learning. I love learning
+                so much I taught myself how
+                to code. During my studies and work, I'm still learning how to create a <span>nice website interface</span> and have a
+                <span>good user experience</span>.
+            </p>
+        </div>
+    </section>
+    <section id="skill">
+        <div class="title">
+            <h2>Browse My Skill</h2>
+            <p>( Something more but I still can't find fonts icon yet :D )</p>
+        </div>
+        <div class="skill-list">
+            <div class="HTML5 skill-list-style"><i class="fab fa-html5"></i></div>
+            <div class="CSS3 skill-list-style"><i class="fab fa-css3-alt"></i></div>
+            <div class="JS skill-list-style"><i class="fab fa-js"></i></div>
+            <div class="Sass skill-list-style"><i class="fab fa-sass"></i></div>
+            <div class="React skill-list-style"><i class="fab fa-react"></i></div>
+            <div class="Grunt skill-list-style"><i class="fab fa-grunt"></i></div>
+            <div class="Gulp skill-list-style"><i class="fab fa-gulp"></i></div>
+            <div class="Git skill-list-style"><i class="fab fa-github"></i></div>
+            <div class="Npm skill-list-style"><i class="fab fa-npm"></i></div>
+        </div>
+    </section>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        let time = parseInt((window.performance.timing.domContentLoadedEventEnd/100)%60)*100;
+        console.log((time));
+        setTimeout(function(){
+            $('body').addClass('loaded');
+            $('html').css('overflow','scroll').delay(time + 500);
+        },time)
+    });
+</script>
 </body>
 </html>

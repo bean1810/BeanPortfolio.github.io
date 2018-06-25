@@ -16,7 +16,6 @@ h1 {
 h2 {
   font-size: 4em;
 }
-
 #header {
   display: flex;
   align-items: center;
@@ -127,19 +126,24 @@ h2 {
     padding: 0 10%;
     .skill-list-style{
       cursor: crosshair;
-      padding: 50px;
+      width: 100px;
+      height: 100px;
+      padding: 10px;
+      margin: 40px;
+      line-height: 100px;
       &:hover{
         i{
           color:#007bff;
         }
       }
       i{
+        color: #808080;
         font-size: 2em;
-        -webkit-transition: color .7s ease;
-        -moz-transition: color .7s ease;
-        -ms-transition: color .7s ease;
-        -o-transition: color .7s ease;
-        transition: color .7s ease;
+        -webkit-transition: color .7s ease, font-size .7s ease;
+        -moz-transition: color .7s ease, font-size .7s ease;
+        -ms-transition: color .7s ease, font-size .7s ease;
+        -o-transition: color .7s ease, font-size .7s ease;
+        transition: color .7s ease, font-size .7s ease;
       }
     }
   }

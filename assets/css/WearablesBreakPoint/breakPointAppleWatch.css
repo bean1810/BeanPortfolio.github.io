@@ -1,0 +1,7 @@
+/* ----------- Apple Watch ----------- */
+@media (max-device-width: 42mm) and (min-device-width: 38mm) {
+  * {
+    padding: 0;
+    margin: 0; } }
+
+/*# sourceMappingURL=breakPointAppleWatch.css.map */

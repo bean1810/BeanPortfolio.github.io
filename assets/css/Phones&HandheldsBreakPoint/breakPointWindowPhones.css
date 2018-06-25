@@ -1,0 +1,17 @@
+/* ----------- Windows Phone ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 480px) and (device-height: 800px) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Portrait */
+@media screen and (device-width: 480px) and (device-height: 800px) and (orientation: portrait) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Landscape */
+@media screen and (device-width: 480px) and (device-height: 800px) and (orientation: landscape) {
+  #header {
+    font-size: 25px; } }
+
+/*# sourceMappingURL=breakPointWindowPhones.css.map */

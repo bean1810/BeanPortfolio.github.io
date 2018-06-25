@@ -10,7 +10,7 @@ let import_style = {
     bootstrap_js: "node_modules/bootstrap/dist/js/bootstrap.min.js",
     my_js: "assets/js/*.js",
     font: "assets/fonts/*",
-    index : "index.html"
+    index: "index.html"
 };
 
 let export_style = {
@@ -25,32 +25,28 @@ gulp.task('css', function () {
         .pipe(browserSync.stream());
 });
 
-
 gulp.task('js', function () {
-    return gulp.src([import_style.jquery, import_style.bootstrap_js, import_style.my_js])
+    return gulp.src([import_style.jquery, import_style.bootstrap_js,import_style.my_js])
         .pipe(concat('main.min.js'))
         .pipe(gulp.dest(export_style.js))
         .pipe(browserSync.stream());
 });
 
-// gulp.task('font', function () {
-//     return gulp.src([import_style.font])
-//         .pipe(gulp.dest(export_style.font));
-// });
+
 gulp.task('serve', [], function () {
     browserSync.init({
-        server:{
+        server: {
             baseDir: "./"
         },
-        port : 5000
+        port: 5000
     });
     gulp.watch(import_style.my_css, ['css']);
-    gulp.watch(import_style.my_js, ['js']);
+    gulp.watch(import_style.my_js, ['my_js']);
     gulp.watch("*.html").on('change', browserSync.reload);
 });
 gulp.task('watch', function () {
     gulp.watch(import_style.my_css, ['css']);
-    gulp.watch(import_style.my_js, ['js']);
+    gulp.watch(import_style.my_js, ['my_js']);
 });
 
-gulp.task('default', ['css', 'js','serve']);
+gulp.task('default', ['css', 'js', 'serve', 'my_js']);

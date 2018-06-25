@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yCAAyC;AACzC,4DAE6B;EAC3B,CAAC;IACC,OAAO,EAAE,CAAC;IACV,MAAM,EAAE,CAAC",
+"sources": ["breakPointAppleWatch.scss"],
+"names": [],
+"file": "breakPointAppleWatch.css"
+}

@@ -22,8 +22,10 @@
       font-size: 1.2em; }
     #skill .skill-list {
       padding: 0 5%; }
-      #skill .skill-list .skill-list-style i {
-        font-size: 4em; } }
+      #skill .skill-list .skill-list-style {
+        margin: 10px; }
+        #skill .skill-list .skill-list-style i {
+          font-size: 4em; } }
 @media only screen and (max-width: 599px) and (-webkit-min-device-pixel-ratio: 2) {
   #header {
     font-size: 11px; }
@@ -46,8 +48,10 @@
       font-size: 1.2em; }
     #skill .skill-list {
       padding: 0 5%; }
-      #skill .skill-list .skill-list-style i {
-        font-size: 4em; } }
+      #skill .skill-list .skill-list-style {
+        margin: 10px; }
+        #skill .skill-list .skill-list-style i {
+          font-size: 4em; } }
 @media only screen and (max-width: 599px) and (-webkit-min-device-pixel-ratio: 3) {
   #header {
     font-size: 12px; }
@@ -70,8 +74,10 @@
       font-size: 1.2em; }
     #skill .skill-list {
       padding: 0 5%; }
-      #skill .skill-list .skill-list-style i {
-        font-size: 4em; } }
+      #skill .skill-list .skill-list-style {
+        margin: 10px; }
+        #skill .skill-list .skill-list-style i {
+          font-size: 4em; } }
 /*--------------For Tablet Portrait Up------------------------*/
 @media only screen and (min-width: 600px) {
   #header {

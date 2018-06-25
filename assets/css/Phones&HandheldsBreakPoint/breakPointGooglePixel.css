@@ -1,0 +1,34 @@
+/* ----------- Google Pixel ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* ----------- Google Pixel XL ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: portrait) {
+  * {
+    padding: 0;
+    margin: 0; } }
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: landscape) {
+  * {
+    padding: 0;
+    margin: 0; } }
+
+/*# sourceMappingURL=breakPointGooglePixel.css.map */

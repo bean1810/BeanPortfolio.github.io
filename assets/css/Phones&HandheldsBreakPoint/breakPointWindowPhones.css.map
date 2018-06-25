@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,2CAA2C;AAE3C,4BAA4B;AAC5B,kEAE2B;EACzB,CAAC;IACC,OAAO,EAAE,CAAC;IACV,MAAM,EAAE,CAAC;AAIb,cAAc;AACd,8FAG4B;EAC1B,CAAC;IACC,OAAO,EAAE,CAAC;IACV,MAAM,EAAE,CAAC;AAIb,eAAe;AACf,+FAG6B;EAC3B,OAAO;IACL,SAAS,EAAE,IAAI",
+"sources": ["breakPointWindowPhones.scss"],
+"names": [],
+"file": "breakPointWindowPhones.css"
+}
